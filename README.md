@@ -18,6 +18,8 @@ A top-down shooter game inspired by the classic arcade game 1942, created in Uni
 To use this repository, you'll need to have the following dependencies installed:
 
 - [DOTween (Free Version)](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676)
+- [More Effective Coroutines (Free Version)](https://assetstore.unity.com/packages/tools/animation/more-effective-coroutines-free-54975)
+- [Eflatun.SceneReference](https://github.com/starikcetin/Eflatun.SceneReference)
 - NEW Unity Input System
 - Unity Splines Package
 - TextMesh Pro
